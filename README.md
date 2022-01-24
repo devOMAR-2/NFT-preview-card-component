@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop preview](./images/preview.png)
+![Desktop preview](https://github.com/i-5iici/NFT-preview-card-component/blob/main/images/Preview.png)
 
 ### Links
 
